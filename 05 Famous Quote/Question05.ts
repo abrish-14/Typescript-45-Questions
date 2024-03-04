@@ -3,9 +3,8 @@
   store it in a new variable called message. Print your message.*/
 
   const famousPerson: string = "Albert Einstein";
-const quote: string = "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.";
+const message: string = "Imagination is more important than knowledge. 
 
-const message: string = `"${quote}" - ${famousPerson}`;
-console.log(message);
+console.log( ${famousePerson}- ${message} )
 
 
