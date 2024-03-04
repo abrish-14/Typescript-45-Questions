@@ -3,8 +3,8 @@
  The text of each message should be the same, but each message should be personalized 
  with the person’s name.*/
 
-let Girls: string[] = ["Madiha", "Rafea", "Maliha", "Alia"]
+let Girls: string[] = ["Madiha", "Rafea", "Maliha", "Alia"];
 
 for (let i = 0; i < Girls.length; i++) {
-    console.log(`Hello, ${[i]}!Girls Have a great day!`);
+    console.log(`Hello, ${Girls[i]}! Girls ko aaj achha din guzarna hai!`);
 }
