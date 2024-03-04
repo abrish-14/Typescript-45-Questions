@@ -6,5 +6,5 @@
 let Girls: string[] = ["Madiha", "Rafea", "Maliha", "Alia"];
 
 for (let i = 0; i < Girls.length; i++) {
-    console.log(`Hello, ${Girls[i]}! Girls ko aaj achha din guzarna hai!`);
+    console.log(`Hello, ${Girls[i]}! hellow girls have a good day !`);
 }
